@@ -4,9 +4,6 @@ from logging import Logger
 from src.api.commons.services.llm import LLM
 from src.commons.application_settings import ApplicationSettings
 from src.api.workflow.faqs_workflow import FaqsWorkflow
-# TODO: CREATE APLICATION SETTINGS AND IMPORT 
-# TODO: CREATE LLM SERVICES TO IMPORT LLM
-# TODO: IMPORT THE CLASS OF FAQS 
 
 
 
