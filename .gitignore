@@ -1,2 +1,4 @@
 faqs/
 .env
+test_f/
+__pycache__
